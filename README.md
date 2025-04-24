@@ -19,14 +19,13 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Senior Software Engineering Student</h2></summary>
+    <summary><h2 style="display: inline-block">Software Engineer</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 I’m currently working with Pixel Partners
-
+- 🔭 I’m currently working as a backend developer with Julaya
 - 📫 Feel free to reach me out **azerchabbar@gmail.com**
 
 <!--Intro end-->
